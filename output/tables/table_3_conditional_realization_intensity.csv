@@ -1,0 +1,6 @@
+outcome,mean_pct,n_cells,n_clusters,grid_coef,grid_ci_low,grid_ci_high,grid_remote_coef,grid_remote_ci_low,grid_remote_ci_high,mde_grid_pp,mde_grid_remote_pp
+any_direct_operation,21.63,3537,1606,0.62,-1.82,3.06,-1.23,-3.71,1.24,3.49,3.54
+project_direct_operation_share,15.47,3537,1606,0.31,-1.71,2.33,-1.47,-3.4,0.45,2.89,2.75
+resolved_project_direct_operation_share,18.76,3080,1486,-0.11,-2.46,2.24,-1.74,-3.91,0.42,3.36,3.09
+mw_weighted_direct_operation_share,15.53,3529,1605,0.38,-1.66,2.42,-1.59,-3.51,0.33,2.92,2.75
+resolved_withdrawal_share,81.24,3080,1486,0.11,-2.24,2.46,1.74,-0.42,3.91,3.36,3.09

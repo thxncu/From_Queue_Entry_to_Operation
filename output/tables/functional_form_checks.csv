@@ -1,0 +1,7 @@
+form,variable,estimate,p_value
+logit_ame_pp,resource_quality_z,4.78,2.011526910093264e-77
+logit_ame_pp,grid_access_z,2.91,2.7656001628641727e-25
+logit_ame_pp,grid_remote,4.0,6.854240232724054e-45
+poisson_irr,resource_quality_z,1.599,7.160212033254667e-128
+poisson_irr,grid_access_z,1.306,1.4159303772716572e-38
+poisson_irr,grid_remote,1.426,5.682515804604757e-72

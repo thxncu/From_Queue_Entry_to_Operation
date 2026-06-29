@@ -1,0 +1,9 @@
+sample,counties,pearson_r,pearson_p,spearman_rho,spearman_p
+at_least_1_resolved,1486,0.016,0.534,0.091,0.0
+at_least_3_resolved,711,0.043,0.254,0.072,0.055
+at_least_5_resolved,370,0.058,0.268,0.077,0.138
+all_projects_unresolved_zero_at_least_3,843,0.034,0.325,0.076,0.027
+all_projects_unresolved_zero_at_least_5,468,0.109,0.019,0.114,0.013
+raw_breadth_vs_realized_share_at_least_3,711,0.001,0.987,0.14,0.0
+county_proposed_vs_realized_MW,1605,,,0.325,0.0
+bootstrap_ci_at_least_3_resolved,711,0.043,-0.031,0.115,

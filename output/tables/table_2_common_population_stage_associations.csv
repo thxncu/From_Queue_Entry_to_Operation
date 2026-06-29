@@ -1,0 +1,13 @@
+outcome,variable,coef_pp,ci_low,ci_high,p_value,n
+any_entry,resource_quality_z,6.27,5.33,7.22,1.5387520292465706e-38,30090
+any_entry,grid_access_z,2.71,2.0,3.42,6.841085872369388e-14,30090
+any_entry,grid_remote,3.51,2.85,4.17,3.367003597066194e-25,30090
+entry_no_op,resource_quality_z,4.83,4.0,5.66,3.142031697304261e-30,30090
+entry_no_op,grid_access_z,2.17,1.55,2.79,8.363555420926726e-12,30090
+entry_no_op,grid_remote,3.0,2.42,3.58,2.734316462428472e-24,30090
+entry_op,resource_quality_z,1.44,0.98,1.9,7.146500387137794e-10,30090
+entry_op,grid_access_z,0.54,0.21,0.86,0.0012165490448819557,30090
+entry_op,grid_remote,0.51,0.17,0.85,0.0035474164570823653,30090
+no_op_minus_op,resource_quality_z,3.39,2.44,4.33,2.494570239117145e-12,30090
+no_op_minus_op,grid_access_z,1.63,0.94,2.33,4.458606725670093e-06,30090
+no_op_minus_op,grid_remote,2.5,1.82,3.18,5.857570452125695e-13,30090

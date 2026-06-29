@@ -1,0 +1,4 @@
+linkage_screen_class,projects,mean_capacity_ratio,min_capacity_ratio
+high_confidence,27,0.9802165169495095,0.818759415733281
+phase_or_partial,14,0.6201717409832657,0.5
+weak,9,0.3085027187196907,0.25

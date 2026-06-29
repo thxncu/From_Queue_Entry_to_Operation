@@ -1,0 +1,4 @@
+outcome,n_cells,mean_pct,grid_coef,grid_ci_low,grid_ci_high,grid_remote_coef,grid_remote_ci_low,grid_remote_ci_high,mde_grid_pp,mde_grid_remote_pp
+project_op_share,1056,21.95,1.78,-2.14,5.7,-0.89,-4.63,2.85,5.6,5.35
+mw_op_share,1056,22.27,1.69,-2.26,5.64,-1.36,-5.07,2.35,5.65,5.3
+any_operation,1056,29.07,2.25,-2.19,6.69,-0.54,-5.06,3.99,6.35,6.47

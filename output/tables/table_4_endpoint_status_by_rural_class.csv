@@ -1,0 +1,4 @@
+class,n,realized_pct,withdrawn_pct,unresolved_pct,realized_among_resolved_pct
+Metropolitan,3211,15.23,68.79,15.98,18.12
+Nonmetro adjacent,2266,15.27,65.8,18.93,18.84
+Nonmetro nonadjacent,1503,13.24,71.72,15.04,15.58
